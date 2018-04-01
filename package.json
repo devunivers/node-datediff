@@ -1,0 +1,26 @@
+{
+  "name": "node-datediff",
+  "version": "0.0.1",
+  "description": "Module for calculate difference bettwen two date",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+      "test": "node index.js"
+  },
+  "author": "devunivers",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devunivers/node-datediff"
+    },
+  "devDependencies": {
+    "karma": "^0.12.16",
+    "karma-spec-reporter": "0.0.13",
+    "karma-phantomjs-launcher": "^0.1.4",
+    "karma-jasmine": "^0.1.5",
+    "uglifyjs": "^2.3.6",
+    "uglify-js": "^2.4.13"
+  }
+}
